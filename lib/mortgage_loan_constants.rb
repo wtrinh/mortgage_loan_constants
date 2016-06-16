@@ -88,6 +88,12 @@ module MortgageLoanConstants
     ["Wyoming","WY"]
   ]
 
-  MarriageStatus = [ ["Married", "Married"], ["Single", "Single"], ["Divorced", "Divorced"], ["Widowed", "Widowed"], ["Separated", "Separated"] ]
+  MarriageStatus = [ 
+    ["Married", "Married"], 
+    ["Single", "Single"], 
+    ["Divorced", "Divorced"], 
+    ["Widowed", "Widowed"], 
+    ["Separated", "Separated"]
+  ]
 
 end
